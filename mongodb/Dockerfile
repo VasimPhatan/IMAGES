@@ -1,2 +1,4 @@
-FROM: mongo:7.0
-COPY: *.js .
+FROM mongo:7.0
+COPY *.js .
+
+
